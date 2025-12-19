@@ -30,7 +30,7 @@ Check it out at [WagFriendly.app](https://wagfriendly.app)
 #### 📝 **Visual Studio Code extension for Slim / Trim language**
 My extension adds comprehensive support for Slim and Trim languages in VS Code.
 
-[View it on the VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=opensourceame.slim-vscode-extension)
+[View it on the VS Code marketplace](https://open-vsx.org/extension/opensourceame/slim-vscode-extension)
 
 #### 💼 **All-in-One Platform for Self-Employed Professionals**
 A comprehensive solution enabling freelancers to instantly create their online presence: websites, marketing emails, auto-responders, and advertising - all in one place.
