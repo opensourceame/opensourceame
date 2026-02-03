@@ -51,7 +51,7 @@ Built a platform for finding quality streaming content based on recommendations 
 
 **Languages & Frameworks:**
 ```
-Ruby, Python, JavaScript (ES6), PHP, Rails, Sinatra, Padrino, Frank, Django, Symfony
+Ruby, Python, JavaScript, Typescript, Godot, PHP, Rails, Sinatra, Padrino, Frank, Django, Symfony
 ```
 
 **Infrastructure & Applications:**
