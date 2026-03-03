@@ -32,7 +32,7 @@ My extension adds comprehensive support for Slim and Trim languages in VS Code.
 
 [View it on the VS Code marketplace](https://open-vsx.org/extension/opensourceame/slim-vscode-extension)
 
-#### 📝 **Visual Studio Code extension for Rspec outlines*
+#### 📝 **Visual Studio Code extension for Rspec outlines**
 My lightweight extension adds an outline view for Rspec files without the need for an LSP.
 
 [View it on the VS Code marketplace](https://open-vsx.org/extension/opensourceame/rspec-outline-view)
