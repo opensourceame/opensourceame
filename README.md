@@ -19,7 +19,7 @@ I believe the best technical solutions are born from understanding both the busi
 
 ### 🚀 Personal Projects & Innovations
 
-I love building solutions before the market knows it needs them. Here are some projects I'm particularly proud of:
+I love building solutions before the market knows it needs them.  Here are some projects I'm particularly proud of:
 
 #### 🐕 **WagFriendly - the AI-Powered Dog-Friendly Location Finder**
 An intelligent app that uses AI to discover dog-friendly hotels, restaurants, and venues - making travel with furry friends effortless.
@@ -31,6 +31,11 @@ Check it out at [WagFriendly.app](https://wagfriendly.app)
 My extension adds comprehensive support for Slim and Trim languages in VS Code.
 
 [View it on the VS Code marketplace](https://open-vsx.org/extension/opensourceame/slim-vscode-extension)
+
+#### 📝 **Visual Studio Code extension for Rspec outlines*
+My lightweight extension adds an outline view for Rspec files without the need for an LSP.
+
+[View it on the VS Code marketplace](https://open-vsx.org/extension/opensourceame/rspec-outline-view)
 
 #### 💼 **All-in-One Platform for Self-Employed Professionals**
 A comprehensive solution enabling freelancers to instantly create their online presence: websites, marketing emails, auto-responders, and advertising - all in one place.
